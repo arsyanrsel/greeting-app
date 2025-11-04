@@ -19,7 +19,7 @@ docker run --rm greeting-app:1.0
 
 Output-nya menampilkan:
 
-![image.png](attachment:afea69c8-0b82-47a5-afb4-43d38f737dd3:image.png)
+[2025-11-04 18:44:47] Hello, world!
 
 Saya ulangi perintah yang sama di Windows 10 melalui PowerShell, dan hasilnya identik. Artinya image tersebut berjalan konsisten di dua OS tanpa harus mengubah kode sama sekali.
 
